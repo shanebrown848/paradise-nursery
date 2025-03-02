@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/paradise-nursery/static/css/main.b09f849e.css",
-    "main.js": "/paradise-nursery/static/js/main.f452761f.js",
+    "main.css": "/paradise-nursery/static/css/main.67db352c.css",
+    "main.js": "/paradise-nursery/static/js/main.638ec847.js",
     "static/js/453.81c3b423.chunk.js": "/paradise-nursery/static/js/453.81c3b423.chunk.js",
     "index.html": "/paradise-nursery/index.html",
-    "main.b09f849e.css.map": "/paradise-nursery/static/css/main.b09f849e.css.map",
-    "main.f452761f.js.map": "/paradise-nursery/static/js/main.f452761f.js.map",
+    "main.67db352c.css.map": "/paradise-nursery/static/css/main.67db352c.css.map",
+    "main.638ec847.js.map": "/paradise-nursery/static/js/main.638ec847.js.map",
     "453.81c3b423.chunk.js.map": "/paradise-nursery/static/js/453.81c3b423.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b09f849e.css",
-    "static/js/main.f452761f.js"
+    "static/css/main.67db352c.css",
+    "static/js/main.638ec847.js"
   ]
 }
